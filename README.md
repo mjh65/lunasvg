@@ -43,7 +43,7 @@ Ensure you have [Meson](http://mesonbuild.com) and [Ninja](http://ninja-build.or
 
 ```bash
 git clone https://github.com/sammycage/lunasvg.git
-cd plutovg
+cd lunasvg
 meson setup build
 ninja -C build
 ninja -C build install
